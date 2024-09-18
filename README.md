@@ -135,4 +135,4 @@
 
 # Задание 2
 
-https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=arch_template_task2.drawio&page-id=K2dvZPWsb7hogYH9mjp9#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D11qA_jGF-hy5o88yHfcHDAzsu6cq2E2Sz%26export%3Ddownload
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=self&highlight=0000ff&edit=_blank&layers=1&nav=1&title=arch_template_task2.drawio&page-id=K2dvZPWsb7hogYH9mjp9#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D11qA_jGF-hy5o88yHfcHDAzsu6cq2E2Sz%26export%3Ddownload#%7B%22pageId%22%3A%22K2dvZPWsb7hogYH9mjp9%22%7D
